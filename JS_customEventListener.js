@@ -65,3 +65,24 @@ module.exports.geo = {
 		return { x: x, y: y };
 	}
 }
+
+let dataType = function (obj) {
+	return ({}).toString.call(obj).match(/\s([a-zA-Z]+)/)[1].toLowerCase();
+}
+
+
+let checkDataType = function(obj) {
+	// return {}.toString
+	//   .call(obj)
+	//   .match(/\s([a-zA-Z]+)s/)[1]
+	//   .toLowerCase();
+	if(typeof obj === 'string'){
+		if(isNaN(obj)){
+			return obj;
+		} else {
+			return obj * 1;
+		}
+	} else if(typeof obj === 'number'){
+		return obj;
+	}
+};
