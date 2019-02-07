@@ -2,6 +2,8 @@ function func(val, valbis, cb) {
 	return cb(val);
 }
 
+
+
 function* it(val) {
 	yield 1;
 	yield func(val, 1);
