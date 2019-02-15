@@ -1,5 +1,5 @@
-"use strict";
 (() => {
+  "use strict";
   // INIT
   let testScroll = document.createElement("div");
   testScroll.style.height = "200vh";
