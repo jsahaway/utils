@@ -1,2 +1,3 @@
 # utils
-miscellany code for every day work
+
+miscellaneous code for every day work
