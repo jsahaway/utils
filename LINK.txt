@@ -5,3 +5,4 @@ API DOM : https://buzut.fr/apres-jquery-dom-natif-et-alternatives/
 DESIGN PATTERN: https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 ANIMATION : https://sparkbox.github.io/bouncy-ball/#greensock
 SQL TO MONGO : http://php.net/manual/fr/mongo.sqltomongo.php
+FUNCTIONNAL PROGRAMMING : http://loic.knuchel.org/blog/2017/06/01/imperatif-vs-fonctionnel-fight/
