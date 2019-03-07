@@ -1,2 +1,7 @@
-https://github.com/trekhleb/javascript-algorithms/blob/master/README.fr-FR.md
-https://epam.github.io/
+DATA STRUCTURE : https://github.com/trekhleb/javascript-algorithms/blob/master/README.fr-FR.md
+3D PROJECT : https://epam.github.io/
+OOJS : https://buzut.fr/programmation-orientee-objet-javascript/
+API DOM : https://buzut.fr/apres-jquery-dom-natif-et-alternatives/
+DESIGN PATTERN: https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+ANIMATION : https://sparkbox.github.io/bouncy-ball/#greensock
+SQL TO MONGO : http://php.net/manual/fr/mongo.sqltomongo.php
